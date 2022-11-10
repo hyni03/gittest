@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 123
+=======
+TEST BRANCH
+>>>>>>> testing
